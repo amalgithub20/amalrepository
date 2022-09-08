@@ -2,6 +2,9 @@
 
 # -*- coding: utf-8 -*-
 """
+This program determine the no. of sets to be created in such a way that in each set there 
+be placed 8 Queens but not more than one queen in every row/col/diagonal in the Chess board.
+It takes max. 30 minutes to give the output : 90 of such valid sets possible.
 Created on Sat Aug 11 12:36:39 2018
 
 @author: AMALENDU
